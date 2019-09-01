@@ -1,0 +1,2 @@
+# partner
+Partner registartion options
